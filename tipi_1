@@ -1,0 +1,339 @@
+[
+   {
+      "title":"updateA",
+      "image":"Kamu Harus Update Server",
+      "jadwal":"https://play.google.com/store/apps/details?id=usa.united.states.live.tv.channels.online.hd",
+      "stream":[
+         {
+            "server":"Kamu Harus Update Server",
+            "link":"https://play.google.com/store/apps/details?id=usa.united.states.live.tv.channels.online.hd"
+         }
+      ]
+   },
+  {
+    "title": "beIN Sport 1",
+    "image": "null",
+    "jadwal": "Jadwal Siaran",
+    "stream": [
+      {
+        "server": "Server 1",
+        "link": "http://149.202.208.85:8080/mystreambhenssp-1/Strm/tracks-v1a1/index.m3u8"
+      },
+      {
+        "server": "Server 2",
+        "link": "http://37.187.169.80:8080/AR-BEINSPORT-1HD/tracks-v1a1/index.m3u8"
+      },
+      {
+        "server": "Server 3",
+        "link": "http://37.187.169.80:8080/AR-BEINSPORT-1HD/tracks-v1a1/index.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "beIN Sport 2",
+    "image": "null",
+    "jadwal": "Jadwal Siaran",
+    "stream": [
+      {
+        "server": "Server 1",
+        "link": "http://149.202.208.85:8080/mystreambhenssp-2/Strm/tracks-v1a1/index.m3u8"
+      },
+      {
+        "server": "Server 2",
+        "link": "http://37.187.169.80:8080/AR-BEINSPORT-2HD/tracks-v1a1/index.m3u8"
+      },
+      {
+        "server": "Server 3",
+        "link": "http://37.187.169.80:8080/AR-BEINSPORT-2HD/tracks-v1a1/index.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "beIN Sport 3",
+    "image": "null",
+    "jadwal": "Jadwal Siaran",
+    "stream": [
+      {
+        "server": "Server 1",
+        "link": "http://149.202.208.85:8080/mystreambhenssp-3/Strm/tracks-v1a1/index.m3u8"
+      },
+      {
+        "server": "Server 2",
+        "link": "http://37.187.169.80:8080/AR-BEINSPORT-3HD/tracks-v1a1/index.m3u8"
+      },
+      {
+        "server": "Server 3",
+        "link": "http://37.187.169.80:8080/AR-BEINSPORT-3HD/tracks-v1a1/index.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "RCTI",
+    "image": "null",
+    "jadwal": "Jadwal Siaran",
+    "stream": [
+      {
+        "server": "Server 1",
+        "link": "http://live.metube.id/tv/channel3000004/index1000.m3u8"
+      },
+      {
+        "server": "Server 2",
+        "link": "http://live.metube.id/tv/channel3000004/index512.m3u8"
+      },
+      {
+        "server": "Server 3",
+        "link": "http://idr.dokitv.com/ch/rcti2.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "TRANSTV",
+    "image": "null",
+    "jadwal": "Jadwal Siaran",
+    "stream": [
+      {
+        "server": "Server 1",
+        "link": "https://livestream-hybrid.akamaized.net/live/smil:trans7.smil/chunklist_b846000.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "SCTV",
+    "image": "null",
+    "jadwal": "Jadwal Siaran",
+    "stream": [
+      {
+        "server": "Server 1",
+        "link": "https://livestream-hybrid.akamaized.net/live/smil:sctv.smil/chunklist_b846000.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "INDOSIAR",
+    "image": "null",
+    "jadwal": "Jadwal Siaran",
+    "stream": [
+      {
+        "server": "Server 1",
+        "link": "https://livestream-hybrid.akamaized.net/live/smil:indosiar.smil/chunklist_b846000.m3u8"
+      },
+      {
+        "server": "Server 2",
+        "link": "http://128.199.142.69/live/tv1/index.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "TRANS7",
+    "image": "null",
+    "jadwal": "Jadwal Siaran",
+    "stream": [
+      {
+        "server": "Server 1",
+        "link": "https://livestream-hybrid.akamaized.net/live/smil:trans7.smil/chunklist_b846000.m3u8"
+      },
+      {
+        "server": "Server 2",
+        "link": "http://128.199.110.53/live/tv1/index.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "NET",
+    "image": "null",
+    "jadwal": "Jadwal Siaran",
+    "stream": [
+      {
+        "server": "Server 1",
+        "link": "https://r1---sn-uxa3vhnxa-230s.googlevideo.com/videoplayback/id/yMf43SfyKlg.1/itag/136/source/yt_live_broadcast/requiressl/yes/playlist_type/LIVE/gcr/id/ratebypass/yes/cmbypass/yes/mime/video%2Fmp4/live/1/gir/yes/noclen/1/dur/5.000/signature/4797B4A3405B4FEFB97A0EB9050F43BBBCA610F8.4778B58FD2D2B762B76481E8F3F552095AA57C0B/beids/%5B9466591%5D/upn/CqZx3ojWBfs/key/cms1/cpn/LBUe8RgyWVfQqDO2/mpd_version/4/pacing/0/ip/114.125.52.161/ipbits/0/expire/1490556993/sparams/cmbypass,dur,expire,gcr,gir,id,ip,ipbits,itag,live,mime,mm,mn,ms,mv,noclen,pl,playlist_type,ratebypass,requiressl,source/mm/32/mn/sn-uxa3vhnxa-230s/ms/lv/mt/1490535252/mv/m/pl/20/"
+      }
+    ]
+  },
+  {
+    "title": "MNCTV",
+    "image": "null",
+    "jadwal": "Jadwal Siaran",
+    "stream": [
+      {
+        "server": "Server 1",
+        "link": "http://live.metube.id/tv/channel2000022/index1024.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "GLOBALTV",
+    "image": "null",
+    "jadwal": "Jadwal Siaran",
+    "stream": [
+      {
+        "server": "Server 1",
+        "link": "http://live.metube.id/tv/channel2000041/index256.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "TVONE",
+    "image": "null",
+    "jadwal": "Jadwal Siaran",
+    "stream": [
+      {
+        "server": "Server 1",
+        "link": "https://livestream-hybrid.akamaized.net/live/smil:tvone.smil/chunklist_b846000.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "TVRI",
+    "image": "null",
+    "jadwal": "Jadwal Siaran",
+    "stream": [
+      {
+        "server": "Server 1",
+        "link": "http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "METROTV",
+    "image": "null",
+    "jadwal": "Jadwal Siaran",
+    "stream": [
+      {
+        "server": "Server 1",
+        "link": "https://livestream-hybrid.akamaized.net/live/smil:metrotv.smil/chunklist_b846000.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "ANTV",
+    "image": "null",
+    "jadwal": "Jadwal Siaran",
+    "stream": [
+      {
+        "server": "Server 1",
+        "link": "https://livestream-hybrid.akamaized.net/live/smil:antv.smil/chunklist_b846000.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "KOMPASTV",
+    "image": "null",
+    "jadwal": "Jadwal Siaran",
+    "stream": [
+      {
+        "server": "Server 1",
+        "link": "https://livestream-hybrid.akamaized.net/live/smil:kompastv.smil/chunklist_b846000.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "RTV",
+    "image": "null",
+    "jadwal": "Jadwal Siaran",
+    "stream": [
+      {
+        "server": "Server 1",
+        "link": "https://livestream-hybrid.akamaized.net/live/smil:rtv.smil/chunklist_b846000.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "BERITASATU",
+    "image": "null",
+    "jadwal": "Jadwal Siaran",
+    "stream": [
+      {
+        "server": "Server 1",
+        "link": "http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/chunklist_b2121000.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "INEWSTV",
+    "image": "null",
+    "jadwal": "Jadwal Siaran",
+    "stream": [
+      {
+        "server": "Server 1",
+        "link": "http://live.metube.id/tv/channel3000005/index2000.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "BLOOMBERGTV",
+    "image": "null",
+    "jadwal": "Jadwal Siaran",
+    "stream": [
+      {
+        "server": "Server 1",
+        "link": "http://btv-i.akamaihd.net/hls/live/202760/btvusa_ios/P1/M440.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "RODJATV",
+    "image": "null",
+    "jadwal": "Jadwal Siaran",
+    "stream": [
+      {
+        "server": "Server 1",
+        "link": "http://vids.rodja.tv:1935/live/rodja/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "O CHANNEL",
+    "image": "null",
+    "jadwal": "Jadwal Siaran",
+    "stream": [
+      {
+        "server": "Server 1",
+        "link": "http://v.nxstream.com/oc/smil:octv/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Anak - Anak",
+    "image": "null",
+    "jadwal": "Channel Kartun Anak - Anak",
+    "stream": [
+      {
+        "server": "Server 1",
+        "link": "http://bcoveliveios-i.akamaihd.net/hls/live/206572/2014288370001/playlist.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "Dangdut TV",
+    "image": "null",
+    "jadwal": "Ayo Nonton Dangdut",
+    "stream": [
+      {
+        "server": "Server 1",
+        "link": "https://e19-us-1.nim.mivo.tv/sedz1j6exe/dangdutz_all/sedz1j6exe/dangdutz_360p/chunks.m3u8?nimblesessionid=317651627&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjUvMjAxNiAyOjEwOjMwIEFNJmhhc2hfdmFsdWU9L2IyMWpMMy9kMWxtaGNSV3ZRZy9uQT09JnZhbGlkbWludXRlcz0xMCZpZD1FVjE1NV80MF8xMTJfNTNfMzZfNjBfNDF8djQtd2VifDExLzI1LzIwMTYgMjoxMCBBTXwzNi44MC44My4xNg=="
+      }
+    ]
+  },
+  {
+    "title": "Euro Sport",
+    "image": "null",
+    "jadwal": "Nonton Euro Sport",
+    "stream": [
+      {
+        "server": "Server 1",
+        "link": "http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8"
+      }
+    ]
+  },
+  {
+    "title": "BEINSPORT",
+    "image": "null",
+    "jadwal": "Jadwal Siaran",
+    "stream": [
+      {
+        "server": "OFFLINE",
+        "link": "null"
+      }
+    ]
+  }
+]
